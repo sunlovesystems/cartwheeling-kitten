@@ -2,4 +2,10 @@
         "tags": ["rotation", "motion", "joint", "bones", "torque", "muscle"],
         "question": "What is a name for the turning effect of a joint, which produces rotary motion?",
         "answer": "Torque, a force that produces rotation."
-      }
+      }, 
+
+  {
+  		"tags": ["bones"],
+  		"question": "What is the patella?",
+  		"answer": "The patella is a knee bone."
+  	  }
